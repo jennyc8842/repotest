@@ -11,4 +11,6 @@
 11) git commit -m "added the instructions of how to make a repo"
 12) do the command git remote add origin https://github.com/jennyc8842/repotest.git
 13) do the command git push -u origin master
-14) you're done! :D
+14) put in your username of github
+15) put your password of github
+16) you're done! :D
